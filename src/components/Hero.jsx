@@ -57,12 +57,12 @@ const Hero = () => {
                     </motion.p>
                     <motion.a
                     variants={childVariants}
-                    href="/resume.pdf"
+                    href="https://drive.google.com/file/d/1n4WMeFjseGjwkEL8uwWjC_65ykopUOJ-/view?usp=sharing"
                     target='_blank'
                     rel='noopener noreferrer'
                     download
                     className='bg-white rounded-full p-4 text-sm text-stone-800 mb-10'>
-                        Download CV
+                        My CV
                     </motion.a>
                 </motion.div>
             </div>
