@@ -11,7 +11,7 @@ const Navbar = () => {
         </a>
     </div>
     <div className="m-8 flex items-center justify-center gap-4 text-2xl">
-        <a href="https://www.linkedin.com/in/nam-lê-b30082263/"
+        <a href="https://www.linkedin.com/in/nam-le-b30082263/"
         target="_blank"
         rel="noopener noreferrer"
         aria-label="LinkedIn">
